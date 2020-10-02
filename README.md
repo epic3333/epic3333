@@ -1,5 +1,3 @@
-### Hi there 👋
-
 [![Header](https://github.com/epic3333/epic3333/blob/main/assets/header.jpg)](http://zharenkov.club/)
 
 ## Hello! I am Yuri and I am a frontend developer! I like creating simple, beautiful and user-friendly websites, and I love what I do. As a developer, I understand that an ideal UI should look good and perform better.
