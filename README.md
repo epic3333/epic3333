@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Header
+![Header](https://github.com/epic3333/epic3333/blob/main/assets/header.jpg)(http://zharenkov.club/)
 
 About me
 
@@ -21,4 +21,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+profile image: 400 x 400
+header image: 1500 x 500
 -->
