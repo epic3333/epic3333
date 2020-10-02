@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Header](https://github.com/epic3333/epic3333/blob/main/assets/header.jpg)(http://zharenkov.club/)
+[![Header](https://github.com/epic3333/epic3333/blob/main/assets/header.jpg)](http://zharenkov.club/)
 
 About me
 
