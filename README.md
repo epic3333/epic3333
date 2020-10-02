@@ -12,7 +12,12 @@
 ![REDUX](https://img.shields.io/badge/-REDUX-090909?style=for-the-badge&logo=redux&logoColor=FFFFFF)
 ![GIT](https://img.shields.io/badge/-GIT-090909?style=for-the-badge&logo=git&logoColor=FFFFFF)
 
-Follow Me
+### Follow Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/zharenkov-club)
+[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/epikc)
+[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/epickvlad)
+
 
 <!--
 **epic3333/epic3333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
