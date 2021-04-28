@@ -15,8 +15,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-090909?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://linkedin.com/in/zharenkov-club)
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram&logoColor=FFFFFF)](https://t.me/epikc)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-090909?style=for-the-badge&logo=Vk&logoColor=FFFFFF)](https://vk.com/epickvlad)
-[![Zharenkov](https://img.shields.io/badge/-Zharenkov.club-090909?style=for-the-badge&logo=&logoColor=FFFFFF)](http://zharenkov.club/)
 
 
 <!--
